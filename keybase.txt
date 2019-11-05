@@ -1,0 +1,58 @@
+layout: none
+permalink: .well-known/keybase.txt
+
+
+https://keybase.io/danhoerst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danhoerst.com
+  * I am danhoerst (https://keybase.io/danhoerst) on keybase.
+  * I have a public key ASDqJyp0qNTZitjxb1bN3zPOVhuxSKA2BmFmGE15CPmllQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ea272a74a8d4d98ad8f16f56cddf33ce561bb148a036066166184d7908f9a5950a",
+      "host": "keybase.io",
+      "kid": "0120ea272a74a8d4d98ad8f16f56cddf33ce561bb148a036066166184d7908f9a5950a",
+      "uid": "2cd6ac407dcbd5aee721f6b042e44c19",
+      "username": "danhoerst"
+    },
+    "merkle_root": {
+      "ctime": 1572979190,
+      "hash": "d74f0d648e935eccb770fb20e155226bb823c338409a884d06526fafb4cbc01c1ed45af9fcd9fe7385a4cdfaed41b0ec43a47fc9b642f15f921ccce2567b9c6f",
+      "hash_meta": "e018a8fe6f5b5336d0848d62b1812cdc6057d745f8a731b83f8162c45cd6c8ca",
+      "seqno": 8781133
+    },
+    "service": {
+      "entropy": "i85zWFamN/3Q8YoeuIAXwnxZ",
+      "hostname": "danhoerst.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572979201,
+  "expire_in": 504576000,
+  "prev": "96fe28cff137ff6fb12455a470d1f7613820dd8560a07002f35eb1733ebb3ab7",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6icqdKjU2YrY8W9Wzd8zzlYbsUigNgZhZhhNeQj5pZUKp3BheWxvYWTESpcCB8Qglv4oz/E3/2+xJFWkcNH3YTgg3YVgoHAC816xcz67OrfEIO+ZXI9sSbvln0UiegTzAYRT6lLwmAkloeH9fMyU153gAgHCo3NpZ8RAIyjIW04XwV06FWw6HgDHcsViQwbc+iM9IqN14ZNKhVEq0c5dLodRynwkvPWU5jbkjYScmcYZouwbrGOrDYUFCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJbYwW6lpBnMFpCjMqkkhBB2GMikOhA2tZ2tCHg8ZEVIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danhoerst
+
